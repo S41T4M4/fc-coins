@@ -143,3 +143,4 @@ C:\Users\ibrai\source\repos\EAFCCoinsManager\EAFCCoinsManager\obj\Debug\net8.0\r
 C:\Users\ibrai\source\repos\EAFCCoinsManager\EAFCCoinsManager\obj\Debug\net8.0\EAFCCoinsManager.pdb
 C:\Users\ibrai\source\repos\EAFCCoinsManager\EAFCCoinsManager\obj\Debug\net8.0\EAFCCoinsManager.genruntimeconfig.cache
 C:\Users\ibrai\source\repos\EAFCCoinsManager\EAFCCoinsManager\obj\Debug\net8.0\ref\EAFCCoinsManager.dll
+C:\Users\ibrai\source\repos\EAFCCoinsManager\EAFCCoinsManager\obj\Debug\net8.0\EAFCCoinsManager.sourcelink.json

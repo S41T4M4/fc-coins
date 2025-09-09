@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EAFCCoinsManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+360a8e0eea30cc1083e805fb6cfdb64dc040e86c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EAFCCoinsManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EAFCCoinsManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
