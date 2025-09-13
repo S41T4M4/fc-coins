@@ -63,11 +63,11 @@ namespace EAFCCoinsManager.Controllers
         }
 
         [HttpPost("register")]
-        public async Task<IActionResult> Register([FromBody] LoginRequest request)
+        public async Task<IActionResult> Register([FromBody] RegisterRequest request)
         {
             try
             {
-                if (string.IsNullOrEmpty(request.Email) || string.IsNullOrEmpty(request.Password))
+                if (string.IsNullOrEmpty(request.Email) || string.IsNullOrEmpty(request.Senha))
                 {
                     return BadRequest("Email e senha são obrigatórios.");
                 }
@@ -85,8 +85,8 @@ namespace EAFCCoinsManager.Controllers
                 var novoUsuario = new Usuarios
                 {
                     email = request.Email,
-                    senha = request.Password, // Em produção, hash a senha
-                    nome = request.Email.Split('@')[0], // Nome padrão baseado no email
+                    senha = request.Senha, // Em produção, hash a senha
+                    nome = string.IsNullOrEmpty(request.Nome) ? request.Email.Split('@')[0] : request.Nome,
                     role = "comprador" // Role padrão
                 };
 

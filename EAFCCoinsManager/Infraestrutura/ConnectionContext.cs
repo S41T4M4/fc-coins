@@ -71,13 +71,6 @@ namespace EAFCCoinsManager.Infraestrutura
         }
 
 
-        // String de conexão
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseNpgsql(
-                "Host=localhost;" +
-                "Port=5432;" +       
-                "Database=eacoins_db;" +
-                "Username=postgres;" + 
-                "Password=Staff4912;"); 
+        // String de conexão configurada no Program.cs via appsettings.json 
     }
 }

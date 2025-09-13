@@ -194,11 +194,11 @@ namespace EAFCCoinsManager.Controllers
         }
 
         [HttpPut("atualizar-quantidade/{idItem}")]
-        public async Task<IActionResult> AtualizarQuantidade(int idItem, [FromBody] int novaQuantidade)
+        public async Task<IActionResult> AtualizarQuantidade(int idItem, [FromBody] UpdateQuantityRequest request)
         {
             try
             {
-                if (novaQuantidade <= 0)
+                if (request.Quantidade <= 0)
                     return BadRequest(new { success = false, message = "Quantidade deve ser maior que zero" });
 
                 // Verificar se o item existe
@@ -207,18 +207,18 @@ namespace EAFCCoinsManager.Controllers
                     return NotFound(new { success = false, message = "Item não encontrado" });
 
                 // Atualizar a quantidade
-                await _carrinhoRepository.UpdateItemQuantity(idItem, novaQuantidade);
+                await _carrinhoRepository.UpdateItemQuantity(idItem, request.Quantidade);
                 
                 return Ok(new
                 {
                     success = true,
-                    message = $"Quantidade do item {idItem} atualizada para {novaQuantidade} com sucesso!",
+                    message = $"Quantidade do item {idItem} atualizada para {request.Quantidade} com sucesso!",
                     itemAtualizado = new
                     {
                         idItem = item.id_item,
                         idCarrinho = item.id_carrinho,
                         idMoeda = item.id_moeda,
-                        quantidade = novaQuantidade
+                        quantidade = request.Quantidade
                     }
                 });
             }
