@@ -85,7 +85,7 @@ namespace EAFCCoinsManager.Controllers
                 var novoUsuario = new Usuarios
                 {
                     email = request.Email,
-                    senha = request.Senha, // Em produção, hash a senha
+                    senha = request.Senha, 
                     nome = string.IsNullOrEmpty(request.Nome) ? request.Email.Split('@')[0] : request.Nome,
                     role = "comprador" // Role padrão
                 };

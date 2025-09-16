@@ -1,5 +1,7 @@
 ﻿using EAFCCoinsManager.Infraestrutura;
+using EAFCCoinsManager.Infraestrutura.Interfaces;
 using EAFCCoinsManager.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace EAFCCoinsManager.Repositories
 {
@@ -37,6 +39,11 @@ namespace EAFCCoinsManager.Repositories
         public Usuarios GetUsuarioById(int id)
         {
             return _connectionContext.Usuarios.Find(id);
+        }
+
+        public async Task<Usuarios?> GetUserByIdAsync(int id)
+        {
+            return await _connectionContext.Usuarios.FindAsync(id);
         }
 
         public void UpdateUsuario(Usuarios usuarios)

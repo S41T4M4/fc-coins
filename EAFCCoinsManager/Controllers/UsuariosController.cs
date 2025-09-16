@@ -1,4 +1,5 @@
-﻿using EAFCCoinsManager.Models;
+﻿using EAFCCoinsManager.Infraestrutura.Interfaces;
+using EAFCCoinsManager.Models;
 using EAFCCoinsManager.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 

@@ -17,5 +17,6 @@ namespace EAFCCoinsManager.Models
 
         public List<Carrinho> Carrinhos { get; set; } = new();
         public List<Pedido> Pedidos { get; set; } = new();
+        public List<VendedorOferta> OfertasVendedor { get; set; } = new();
     }
 }

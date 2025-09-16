@@ -13,6 +13,7 @@ namespace EAFCCoinsManager.Infraestrutura
         public DbSet<Moeda> Moeda { get; set; }
         public DbSet<Plataforma> Plataforma { get; set; }
         public DbSet<Pagamento> Pagamento { get; set; }
+        public DbSet<VendedorOferta> VendedorOfertas { get; set; }
        
 
         public ConnectionContext(DbContextOptions<ConnectionContext> options)
@@ -68,6 +69,18 @@ namespace EAFCCoinsManager.Infraestrutura
                 .HasOne(m => m.Plataforma)
                 .WithMany(p => p.Moedas)
                 .HasForeignKey(m => m.plataforma_id);
+
+            // 🔹 Usuario 1:N VendedorOferta (Vendedor)
+            modelBuilder.Entity<VendedorOferta>()
+                .HasOne(vo => vo.Vendedor)
+                .WithMany(u => u.OfertasVendedor)
+                .HasForeignKey(vo => vo.id_vendedor);
+
+            // 🔹 Plataforma 1:N VendedorOferta
+            modelBuilder.Entity<VendedorOferta>()
+                .HasOne(vo => vo.Plataforma)
+                .WithMany(p => p.OfertasVendedores)
+                .HasForeignKey(vo => vo.plataforma_id);
         }
 
 

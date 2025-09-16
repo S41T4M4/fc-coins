@@ -70,6 +70,7 @@ builder.Services.AddTransient<IMoedaRepository, MoedasRepository>();
 builder.Services.AddTransient<IPlataformaRepository, PlataformaRepository>();
 builder.Services.AddTransient<IPedidoRepository, PedidoRepository>();
 builder.Services.AddTransient<IItemPedido, ItemPedidoRepository>();
+builder.Services.AddTransient<IVendedorOfertaRepository, VendedorOfertaRepository>();
 builder.Services.AddTransient<PagamentoRepository>();
 
 
@@ -118,6 +119,7 @@ if (app.Environment.IsDevelopment())
 
 //app.UseHttpsRedirection();
 app.UseCors("AllowFrontend");
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

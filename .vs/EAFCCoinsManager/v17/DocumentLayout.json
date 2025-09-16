@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|solutionrelative:eafccoinsmanager\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\controllers\\moedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|solutionrelative:eafccoinsmanager\\controllers\\moedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|solutionrelative:eafccoinsmanager\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|solutionrelative:eafccoinsmanager\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|solutionrelative:eafccoinsmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\infraestrutura\\interfaces\\imoedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|solutionrelative:eafccoinsmanager\\infraestrutura\\interfaces\\imoedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\repositories\\moedasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|solutionrelative:eafccoinsmanager\\repositories\\moedasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|solutionrelative:eafccoinsmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\models\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|solutionrelative:eafccoinsmanager\\models\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|solutionrelative:eafccoinsmanager\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\infraestrutura\\interfaces\\icarrinhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|solutionrelative:eafccoinsmanager\\models\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|solutionrelative:eafccoinsmanager\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|c:\\users\\ibrai\\source\\repos\\eafccoinsmanager\\eafccoinsmanager\\models\\comprarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CB9EBC-7405-40A6-B608-B2868F8D2764}|EAFCCoinsManager\\EAFCCoinsManager.csproj|solutionrelative:eafccoinsmanager\\models\\comprarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -138,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,32 +154,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MoedasRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Repositories\\MoedasRepository.cs",
-              "RelativeDocumentMoniker": "EAFCCoinsManager\\Repositories\\MoedasRepository.cs",
-              "ToolTip": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Repositories\\MoedasRepository.cs",
-              "RelativeToolTip": "EAFCCoinsManager\\Repositories\\MoedasRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "VendedorController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Controllers\\VendedorController.cs",
+              "RelativeDocumentMoniker": "EAFCCoinsManager\\Controllers\\VendedorController.cs",
+              "ToolTip": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Controllers\\VendedorController.cs",
+              "RelativeToolTip": "EAFCCoinsManager\\Controllers\\VendedorController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAvwFMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T15:57:49.294Z",
+              "WhenOpened": "2025-09-14T13:16:10.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ConnectionContext.cs",
-              "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Infraestrutura\\ConnectionContext.cs",
-              "RelativeDocumentMoniker": "EAFCCoinsManager\\Infraestrutura\\ConnectionContext.cs",
-              "ToolTip": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Infraestrutura\\ConnectionContext.cs",
-              "RelativeToolTip": "EAFCCoinsManager\\Infraestrutura\\ConnectionContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MoedaController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Controllers\\MoedaController.cs",
+              "RelativeDocumentMoniker": "EAFCCoinsManager\\Controllers\\MoedaController.cs",
+              "ToolTip": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Controllers\\MoedaController.cs",
+              "RelativeToolTip": "EAFCCoinsManager\\Controllers\\MoedaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:01:53.319Z"
+              "WhenOpened": "2025-09-14T12:57:14.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ItemPedido.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Models\\ItemPedido.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Models\\ItemPedido.cs",
@@ -183,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Controllers\\UsuariosController.cs",
@@ -195,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Carrinho.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Models\\Carrinho.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Models\\Carrinho.cs",
@@ -207,7 +216,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EAFCCoinsManager\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EAFCCoinsManager\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:00:35.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoedasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Repositories\\MoedasRepository.cs",
+              "RelativeDocumentMoniker": "EAFCCoinsManager\\Repositories\\MoedasRepository.cs",
+              "ToolTip": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Repositories\\MoedasRepository.cs",
+              "RelativeToolTip": "EAFCCoinsManager\\Repositories\\MoedasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:57:49.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IPedidoRepository.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Infraestrutura\\Interfaces\\IPedidoRepository.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Infraestrutura\\Interfaces\\IPedidoRepository.cs",
@@ -219,32 +253,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "EAFCCoinsManager\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "EAFCCoinsManager\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:00:35.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Program.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Program.cs",
               "ToolTip": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Program.cs",
               "RelativeToolTip": "EAFCCoinsManager\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T13:52:15.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "IMoedaRepository.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Infraestrutura\\Interfaces\\IMoedaRepository.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Infraestrutura\\Interfaces\\IMoedaRepository.cs",
@@ -257,7 +279,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "EAFCCoinsManager\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Models\\Usuarios.cs",
+              "RelativeToolTip": "EAFCCoinsManager\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:52:41.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConnectionContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Infraestrutura\\ConnectionContext.cs",
+              "RelativeDocumentMoniker": "EAFCCoinsManager\\Infraestrutura\\ConnectionContext.cs",
+              "ToolTip": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Infraestrutura\\ConnectionContext.cs",
+              "RelativeToolTip": "EAFCCoinsManager\\Infraestrutura\\ConnectionContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:01:53.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ICarrinhoRepository.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Infraestrutura\\Interfaces\\ICarrinhoRepository.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Infraestrutura\\Interfaces\\ICarrinhoRepository.cs",
@@ -269,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Services\\TokenService.cs",
@@ -277,12 +324,11 @@
               "RelativeToolTip": "EAFCCoinsManager\\Services\\TokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:49:31.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T14:49:31.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "CarrinhoRepository.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Repositories\\CarrinhoRepository.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Repositories\\CarrinhoRepository.cs",
@@ -294,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CarrinhoController.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Controllers\\CarrinhoController.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Controllers\\CarrinhoController.cs",
@@ -306,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CarrinhoViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\ViewModel\\CarrinhoViewModel.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\ViewModel\\CarrinhoViewModel.cs",
@@ -318,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ItemCarrinhoViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\ViewModel\\ItemCarrinhoViewModel.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\ViewModel\\ItemCarrinhoViewModel.cs",
@@ -330,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "IPlataformaRepository.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Infraestrutura\\Interfaces\\IPlataformaRepository.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Infraestrutura\\Interfaces\\IPlataformaRepository.cs",
@@ -342,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "IItemPedido.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Infraestrutura\\Interfaces\\IItemPedido.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Infraestrutura\\Interfaces\\IItemPedido.cs",
@@ -355,18 +401,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Models\\Usuarios.cs",
-              "RelativeDocumentMoniker": "EAFCCoinsManager\\Models\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Models\\Usuarios.cs",
-              "RelativeToolTip": "EAFCCoinsManager\\Models\\Usuarios.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T13:52:41.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Models\\Pedido.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Models\\Pedido.cs",
@@ -378,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "CompraRequest.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Models\\CompraRequest.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Models\\CompraRequest.cs",
@@ -390,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "ItemCarrinho.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Models\\ItemCarrinho.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Models\\ItemCarrinho.cs",
@@ -402,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Moeda.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Models\\Moeda.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Models\\Moeda.cs",
@@ -414,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Pagamento.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Models\\Pagamento.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Models\\Pagamento.cs",
@@ -426,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Plataforma.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Models\\Plataforma.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Models\\Plataforma.cs",
@@ -438,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Models\\LoginRequest.cs",
@@ -450,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "UsuariosRepository.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Repositories\\UsuariosRepository.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Repositories\\UsuariosRepository.cs",
@@ -462,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "UsuariosViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\ViewModel\\UsuariosViewModel.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\ViewModel\\UsuariosViewModel.cs",
@@ -474,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Key.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Key.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Key.cs",
@@ -486,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Dockerfile",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Dockerfile",
@@ -498,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "IUsuariosRepository.cs",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\Infraestrutura\\Interfaces\\IUsuariosRepository.cs",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\Infraestrutura\\Interfaces\\IUsuariosRepository.cs",
@@ -510,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\appsettings.json",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\appsettings.json",
@@ -522,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "EAFCCoinsManager.csproj",
               "DocumentMoniker": "C:\\Users\\ibrai\\source\\repos\\EAFCCoinsManager\\EAFCCoinsManager\\EAFCCoinsManager.csproj",
               "RelativeDocumentMoniker": "EAFCCoinsManager\\EAFCCoinsManager.csproj",

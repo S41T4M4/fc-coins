@@ -34,5 +34,21 @@ namespace EAFCCoinsManager.Repositories
                 .Include(p => p.Moedas)
                 .FirstOrDefaultAsync(p => p.id_plataforma == id_plataforma);
         }
+
+        public async Task<List<Plataforma>> GetAllPlataformasAsync()
+        {
+            return await _connectionContext.Plataforma
+                .Include(p => p.Moedas)
+                .Include(p => p.OfertasVendedores)
+                .ToListAsync();
+        }
+
+        public async Task<Plataforma?> GetPlataformaByIdAsync(int id_plataforma)
+        {
+            return await _connectionContext.Plataforma
+                .Include(p => p.Moedas)
+                .Include(p => p.OfertasVendedores)
+                .FirstOrDefaultAsync(p => p.id_plataforma == id_plataforma);
+        }
     }
 }
